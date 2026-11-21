@@ -1,0 +1,28 @@
+body {
+    background: lightgray;
+    font-family: Arial;
+    margin: 30px;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+}
+
+p {
+    font-size: 18px;
+}
+
+input {
+    padding: 8px;
+}
+
+button {
+    padding: 8px;
+    background: green;
+    color: white;
+}
